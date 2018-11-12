@@ -1,0 +1,8 @@
+name: Squat Counter
+url: https://squat-counter.herokuapp.com/
+banner: true
+description: |
+  Automatically count squats in the browser
+technologies:
+  - React
+  - TensorFlow.js
