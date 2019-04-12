@@ -1,5 +1,6 @@
 name: Squat Counter
 url: https://squat-counter.herokuapp.com/
+cover_image: https://raw.githubusercontent.com/greis/squat-counter/master/squat-counter.gif
 banner: true
 description: |
   Automatically count squats in the browser
